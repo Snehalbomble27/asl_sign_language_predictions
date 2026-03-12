@@ -25,7 +25,7 @@ https://drive.google.com/drive/folders/1IJY5OhvsO1Bn90TOpihb4WdzApfcdyKy?usp=sha
 
 ---
 
-## Pretrained Model (.h5)
+##  Model (.h5)
 The trained CNN model used for gesture classification can be downloaded from the link below:
 
 Model Link:  
